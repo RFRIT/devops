@@ -40,6 +40,13 @@ node_modules
 # This is the Yarn install state cache, it can be rebuilt anytime
 /.yarn/install-state.gz
 
+# images
+images.json
+
+*.iml
+.idea
+.terraform
+*.terraform.*
+terraform.*
+.next
 dist/
-.idea/workspace.xml
-.idea/vcs.xml
